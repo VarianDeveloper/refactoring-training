@@ -18,7 +18,7 @@ namespace Refactoring
 
             // Login
             Login:
-            bool loggedIn = false; // Is logged in?
+            bool loggedEh = false; // Is logged in?
 
             // Prompt for user input
             Console.WriteLine();
